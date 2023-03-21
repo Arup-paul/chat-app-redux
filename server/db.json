@@ -1,0 +1,189 @@
+{
+  "users": [
+    {
+      "email": "sumit@learnwithsumit.com",
+      "password": "$2a$10$tGMlJhQmAnx7f4cIVY55FOtIRV91wjRwBhdpaANPoslku3P/aAjPK",
+      "name": "Sumit Saha",
+      "id": 1
+    },
+    {
+      "email": "akash@learnwithsumit.com",
+      "password": "$2a$10$Oc6jXnK6/pbSqmkngo/b.OhsU3JRf4OU1h9QwIoqz8ZUpG/hgHq72",
+      "name": "Akash Ahmed",
+      "id": 2
+    },
+    {
+      "email": "saad@learnwithsumit.com",
+      "password": "$2a$10$DVGOgchZrtvb1w6Pj.B0D.DXmHmoTsdy3oXfwF.02kE/pzJ7jyHqy",
+      "name": "Saad Hasan",
+      "id": 3
+    },
+    {
+      "email": "aruppaul@gmail.com",
+      "password": "$2a$10$msRXZnmim8GjFpeCbK49..kW/XG/DEehhfGLXMQlMkl1db36gBCwy",
+      "name": "Arup paul",
+      "id": 4
+    }
+  ],
+  "conversations": [
+    {
+      "participants": "aruppaul@gmail.com-akash@learnwithsumit.com",
+      "users": [
+        {
+          "email": "aruppaul@gmail.com",
+          "name": "Arup paul",
+          "id": 4
+        },
+        {
+          "email": "akash@learnwithsumit.com",
+          "password": "$2a$10$Oc6jXnK6/pbSqmkngo/b.OhsU3JRf4OU1h9QwIoqz8ZUpG/hgHq72",
+          "name": "Akash Ahmed",
+          "id": 2
+        }
+      ],
+      "message": "sdf",
+      "timestamp": 1679403441290,
+      "id": 1
+    },
+    {
+      "participants": "aruppaul@gmail.com-saad@learnwithsumit.com",
+      "users": [
+        {
+          "email": "aruppaul@gmail.com",
+          "name": "Arup paul",
+          "id": 4
+        },
+        {
+          "email": "saad@learnwithsumit.com",
+          "password": "$2a$10$DVGOgchZrtvb1w6Pj.B0D.DXmHmoTsdy3oXfwF.02kE/pzJ7jyHqy",
+          "name": "Saad Hasan",
+          "id": 3
+        }
+      ],
+      "message": "zdsfdsf",
+      "timestamp": 1679408866500,
+      "id": 2
+    }
+  ],
+  "messages": [
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "aruppaul@gmail.com",
+        "name": "Arup paul",
+        "id": 4
+      },
+      "receiver": {
+        "email": "saad@learnwithsumit.com",
+        "password": "$2a$10$DVGOgchZrtvb1w6Pj.B0D.DXmHmoTsdy3oXfwF.02kE/pzJ7jyHqy",
+        "name": "Saad Hasan",
+        "id": 3
+      },
+      "message": "11111",
+      "timestamp": 1679403498952,
+      "id": 1
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "aruppaul@gmail.com",
+        "name": "Arup paul",
+        "id": 4
+      },
+      "receiver": {
+        "email": "saad@learnwithsumit.com",
+        "password": "$2a$10$DVGOgchZrtvb1w6Pj.B0D.DXmHmoTsdy3oXfwF.02kE/pzJ7jyHqy",
+        "name": "Saad Hasan",
+        "id": 3
+      },
+      "message": "sdfdsf",
+      "timestamp": 1679403503713,
+      "id": 2
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "aruppaul@gmail.com",
+        "name": "Arup paul",
+        "id": 4
+      },
+      "receiver": {
+        "email": "saad@learnwithsumit.com",
+        "password": "$2a$10$DVGOgchZrtvb1w6Pj.B0D.DXmHmoTsdy3oXfwF.02kE/pzJ7jyHqy",
+        "name": "Saad Hasan",
+        "id": 3
+      },
+      "message": "dsfszdf",
+      "timestamp": 1679403507343,
+      "id": 3
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "aruppaul@gmail.com",
+        "name": "Arup paul",
+        "id": 4
+      },
+      "receiver": {
+        "email": "saad@learnwithsumit.com",
+        "password": "$2a$10$DVGOgchZrtvb1w6Pj.B0D.DXmHmoTsdy3oXfwF.02kE/pzJ7jyHqy",
+        "name": "Saad Hasan",
+        "id": 3
+      },
+      "message": "new",
+      "timestamp": 1679407858463,
+      "id": 4
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "aruppaul@gmail.com",
+        "name": "Arup paul",
+        "id": 4
+      },
+      "receiver": {
+        "email": "saad@learnwithsumit.com",
+        "password": "$2a$10$DVGOgchZrtvb1w6Pj.B0D.DXmHmoTsdy3oXfwF.02kE/pzJ7jyHqy",
+        "name": "Saad Hasan",
+        "id": 3
+      },
+      "message": "test",
+      "timestamp": 1679407945798,
+      "id": 5
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "aruppaul@gmail.com",
+        "name": "Arup paul",
+        "id": 4
+      },
+      "receiver": {
+        "email": "saad@learnwithsumit.com",
+        "password": "$2a$10$DVGOgchZrtvb1w6Pj.B0D.DXmHmoTsdy3oXfwF.02kE/pzJ7jyHqy",
+        "name": "Saad Hasan",
+        "id": 3
+      },
+      "message": "dsadasf",
+      "timestamp": 1679408409900,
+      "id": 6
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "aruppaul@gmail.com",
+        "name": "Arup paul",
+        "id": 4
+      },
+      "receiver": {
+        "email": "saad@learnwithsumit.com",
+        "password": "$2a$10$DVGOgchZrtvb1w6Pj.B0D.DXmHmoTsdy3oXfwF.02kE/pzJ7jyHqy",
+        "name": "Saad Hasan",
+        "id": 3
+      },
+      "message": "asdsa",
+      "timestamp": 1679408437953,
+      "id": 7
+    }
+  ]
+}
